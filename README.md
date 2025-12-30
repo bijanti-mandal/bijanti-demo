@@ -1,2 +1,3 @@
 # bijanti-demo
-this us my first repository
+this is my first repository
+bijanti mandal
